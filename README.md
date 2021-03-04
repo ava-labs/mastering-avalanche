@@ -1,6 +1,6 @@
 # Mastering Avalanche
 
-Mastering Avalanche 1st Edition - Coding on the Internet of Finance
+Mastering Avalanche 1st Edition - The Internet of Finance
 
 ## Chapter 1 - Introduction
 
