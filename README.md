@@ -1,6 +1,6 @@
 # Mastering Avalanche
 
-Mastering Avalanche 1st Edition - The Internet of Finance
+Mastering Avalanche 1st Edition - The Internet of Finance. Inspired by, but not based on, [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) by [Andreas M. Antonopoulos](https://aantonop.com).
 
 ## Table of Contents
 
