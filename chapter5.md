@@ -1,13 +1,13 @@
 # Chapter 5 - Wallets
 
-Nondeterministic (Random) Wallets
+## Nondeterministic (Random) Wallets
 
-Deterministic (Seeded) Wallets
+## Deterministic (Seeded) Wallets
 
-HD Wallets (BIP-32/BIP-44)
+## HD Wallets (BIP-32/BIP-44)
 
-Wallet Best Practices
+## Wallet Best Practices
 
-Mnemonic Code Words (BIP-39)
+## Mnemonic Code Words (BIP-39)
 
-Extended keys
+## Extended keys

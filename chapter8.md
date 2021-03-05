@@ -1,9 +1,9 @@
 # Chapter 8 - The Blockchain
 
-DAG
+## DAG
 
-Vertices
+## Vertices
 
-Blockchain
+## Blockchain
 
-Blocks
+## Blocks

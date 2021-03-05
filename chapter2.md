@@ -1,9 +1,9 @@
 # Chapter 2 - How Avalanche works
 
-Transactions
+## Transactions
 
-Blocks/vertices
+## Blocks/vertices
 
-Validating
+## Validating
 
-The blockchain
+## The blockchain

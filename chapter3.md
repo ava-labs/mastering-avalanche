@@ -1,11 +1,11 @@
 # Chapter 3 - AvalancheGo, the reference implementation
 
-Running an Avalanche node
+## Running an Avalanche node
 
 [AvalancheGo](https://github.com/ava-labs/avalanchego)
 
-Configuration
+## Configuration
 
-API/RPC
+## API/RPC
 
-Alternative implementations
+## Alternative implementations

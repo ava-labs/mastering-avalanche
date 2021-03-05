@@ -1,16 +1,16 @@
 # Chapter 4 - Keys and Addresses
 
-Introduction
+## Introduction
 
-Public Key Cryptography and Cryptocurrency
+## Public Key Cryptography and Cryptocurrency
 
-Private Keys
+## Private Keys
 
-Public Keys
+## Public Keys
 
-Addresses
+## Addresses
 
-Base58 Check
+## Base58 Check
 
 ## Bech32
 

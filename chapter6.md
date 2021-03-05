@@ -1,13 +1,13 @@
 # Chapter 6 - Transactions
 
-Outputs
+## Outputs
 
-Inputs
+## Inputs
 
-Fees
+## Fees
 
-Locktime
+## Locktime
 
-Digital Signatures
+## Digital Signatures
 
-Multisignature
+## Multisignature

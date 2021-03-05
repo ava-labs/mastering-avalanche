@@ -1,6 +1,6 @@
 # Chapter 9 - Validating and Consensus
 
-Currency creation
+## Currency creation
 
 ## Consensus
 

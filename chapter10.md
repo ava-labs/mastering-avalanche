@@ -1,7 +1,7 @@
 # Chapter 10 - Avalanche Security
 
-Principles
+## Principles
 
-Best practices
+## Best practices
 
-Hardware wallets
+## Hardware wallets
