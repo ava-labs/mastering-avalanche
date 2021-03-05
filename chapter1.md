@@ -15,6 +15,22 @@ AVAX is the native token of Avalanche. It’s a hard-capped, scarce asset that i
 
 ## Choosing an Avalanche Wallet
 
+### Web Wallet
+
+[Web Wallet](https://wallet.avax.network)
+
+### Hardware Wallet
+
+There is an [app for the Ledger](https://github.com/obsidiansystems/ledger-app-avalanche).
+
+1. Launch [Ledger Live](https://www.ledger.com/ledger-live)
+2. Open Settings
+3. Toggle on `Developer Mode`
+4. Launch and approve Manager
+5. Search for and install `Avalanche`
+
+<img src="./assets/ledger-app-install.png" width="400px" alt="ledger install app">
+
 ## Getting your first AVAX
 
 ## Finding the current price of AVAX
