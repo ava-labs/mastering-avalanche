@@ -1,4 +1,4 @@
-# Chapter 4 - Keys and Addresses
+# Keys and Addresses
 
 ## Introduction
 

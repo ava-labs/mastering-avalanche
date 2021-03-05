@@ -1,4 +1,4 @@
-# Chapter 2 - How Avalanche works
+# How Avalanche works
 
 ## Transactions
 

@@ -1,4 +1,4 @@
-# Chapter 3 - AvalancheGo, the reference implementation
+# AvalancheGo, the reference implementation
 
 ## Running an Avalanche node
 

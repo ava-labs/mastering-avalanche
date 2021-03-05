@@ -1,4 +1,4 @@
-# Chapter 12 - Whitepapers
+# Whitepapers
 
 ## Avalanche Platform Whitepaper
 

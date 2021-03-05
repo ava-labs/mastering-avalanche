@@ -1,4 +1,4 @@
-# Chapter 6 - Transactions
+# Transactions
 
 ## Outputs
 

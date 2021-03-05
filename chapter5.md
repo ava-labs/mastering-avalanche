@@ -1,4 +1,4 @@
-# Chapter 5 - Wallets
+# Wallets
 
 ## Nondeterministic (Random) Wallets
 

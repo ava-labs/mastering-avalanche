@@ -1,4 +1,4 @@
-# Chapter 11 - Avalanche Applications
+# Avalanche Applications
 
 ## Avalanche<>EThereum Bridge
 

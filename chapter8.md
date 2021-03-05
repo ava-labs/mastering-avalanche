@@ -1,4 +1,4 @@
-# Chapter 8 - The Blockchain
+# The Blockchain
 
 ## DAG
 

@@ -1,4 +1,4 @@
-# Chapter 10 - Avalanche Security
+# Avalanche Security
 
 ## Principles
 
