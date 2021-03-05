@@ -42,7 +42,7 @@ In the wake of Nakamoto’s work, the world still wanted a protocol with all of 
 
 Then, in May of 2018, a paper was distributed by a pseudonymous group named Team Rocket that proposed a third class of consensus protocol they dubbed “Avalanche.” With all the benefits of Classical consensus and the massive decentralization of Nakamoto consensus, it proved that Classical protocols can be generalized to behave probabilistically and gain massive performance improvements as a result.
 
-<img src="./assets/ConsensusParadigmComparison.png" alt="Consensus Paradigm Comparison" width="700px">
+<p style="text-align:center;"><img src="./assets/ConsensusParadigmComparison.png" alt="Consensus Paradigm Comparison" width="700px"></p>
 
 #### What is Avalanche Consensus?
 
@@ -85,7 +85,7 @@ In more detail, it works as follows:
 9. Once a confidence threshold is reached, the decision on the transaction is locked in as final.
 10. If “Accepted”, the transaction is sent to the VM to be handled; if “Rejected”, the transaction is removed from consensus.
 
-<img src="./assets/HowAvalancheConsensusWorks.png" alt="How Avalanche Consensus Works" width="700px">
+<p style="text-align:center;"><img src="./assets/HowAvalancheConsensusWorks.png" alt="How Avalanche Consensus Works" width="700px"></p>
 
 The Team Rocket whitepaper showed that with correct parameterization, a network will come to the same decision using this process to a parameterizable probability.
 
