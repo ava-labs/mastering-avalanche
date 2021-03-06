@@ -28,6 +28,8 @@ Avalanche Wallet is a simple, secure, non-custodial wallet for storing Avalanche
 
 ## AVAX Alert
 
+Receive notifications directly into your email address when transactions occur on your AVAX wallet.
+
 * [Get Notified](https://avaxalert.com/)
 
 ## Avalanche Explorers
