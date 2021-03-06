@@ -12,3 +12,26 @@ Two-way transfers of assets and data between Avalanche and Ethereum.
 * [Landing Page](https://pangolin.exchange)
 * [Distributed Exchange (DEX)](https://app.pangolin.exchange)
 * [Pangolin Protocol Analytics](https://info.pangolin.exchange)
+* [Pangolin Governance Forum](https://gov.pangolin.exchange/)
+
+## Jelly Swap
+
+* [Home](https://jelly.market/)
+* [Swap](https://app.jelly.market/swap)
+
+## Avalanche Wallet
+
+Avalanche Wallet is a simple, secure, non-custodial wallet for storing Avalanche assets.
+
+* [Avalanche Wallet](wallet.avax.network)
+
+
+## AVAX Alert
+
+* [Get Notified](https://avaxalert.com/)
+
+## Avalanche Explorers
+
+* [Avalanche Explorer](explorer.avax.network)
+* [Avascan](avascan.info)
+* [Vsout](vscout.io)
