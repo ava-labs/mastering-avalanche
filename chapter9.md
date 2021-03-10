@@ -20,7 +20,7 @@ Classical consensus protocols, such as Practical Byzantine Fault Tolerance (PBFT
 
 Classical consensus has two major problems in open, Internet-like settings. The first problem is that these protocols are fragile: their correctness depends heavily on everyone in the system knowing and agreeing on the identities of the validators that comprise the system at any one point. As a result, any errors in maintaining membership in the system, or any difference in the views of the network can lead to safety violations. Further, an attacker only needs control of 33% of the network in order to launch a double-spend attack that is guaranteed to succeed.
 
-Second, these systems, while fast, do not scale well in the number of participants. The most scalable Classical protocol, HotStuff (incidentally designed by Ted Yin, who is now working on the Avalanche protocol) used by Facebook’s Libra, only supports approximately 100 validators before the performance begins to suffer.
+Second, these systems, while fast, do not scale well in the number of participants. The most scalable Classical protocol, HotStuff (incidentally designed by [Ted Yin](https://twitter.com/Tederminant), who is now working on the Avalanche protocol) used by Facebook’s Diem (previously Libra), only supports approximately 100 validators before the performance begins to suffer.
 
 These two flaws make Classical consensus an unviable candidate for open and permissionless networks where nodes may join and leave at-will and nodes may behave adversarially to the network’s intent.
 
