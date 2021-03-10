@@ -26,7 +26,7 @@ These two flaws make Classical consensus an unviable candidate for open and perm
 
 ### Nakamoto Consensus
 
-For over a decade, practical Byzantine fault-tolerant systems were a novelty because Classical consensus couldn’t scale to handle global needs. Then, out of nowhere, Satoshi Nakamoto came along and dropped the Bitcoin paper and showed the world it was possible to create an adversary-resistant consensus protocol that worked at a global scale. Nakamoto accomplished this by redefining the consensus problem and making the correctness definition probabilistic.
+For over a decade, practical Byzantine fault-tolerant systems were a novelty because Classical consensus couldn’t scale to handle global needs. Then, out of nowhere, Satoshi Nakamoto came along and dropped the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf) and showed the world it was possible to create an adversary-resistant consensus protocol that worked at a global scale. Nakamoto accomplished this by redefining the consensus problem and making the correctness definition probabilistic.
 
 With Nakamoto-based protocols, instead of waiting for absolute certainty across all nodes in the network, Nakamoto trades off an indistinguishable difference in probability for greater scalability. Where classical protocols must reach consensus with a probability of 1 (P=1), Nakamoto reaches consensus with a probability of 1 minus some teeny tiny chance of error (P=1 — ε). In Nakamoto, this error value is made smaller and smaller over time as more blocks are produced. The more blocks, the chances of a reorganization drop exponentially.
 
