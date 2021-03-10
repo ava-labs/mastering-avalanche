@@ -1,6 +1,6 @@
 # Avalanche Applications
 
-## Avalanche<>EThereum Bridge
+## Avalanche<>Ethereum Bridge
 
 Two-way transfers of assets and data between Avalanche and Ethereum.
 
