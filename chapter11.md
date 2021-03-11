@@ -40,4 +40,3 @@ Receive notifications directly into your email address when transactions occur o
 ## NoTex
 
 [NoTex](https://www.notex.ch) is a global censorship resistant blogging and intellectual property (IP) platform, that allows you to freely express yourself and to protect your thoughts or ideas.
-
