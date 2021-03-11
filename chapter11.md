@@ -38,7 +38,8 @@ Receive notifications directly into your email address when transactions occur o
 * [VScout](https://vscout.io/)
 
 ## Yield Optimizer
-* [Snowball Finance](https://snowball finance.info) BETA earn higher return on liquidity provider tokens.(currently built on Pangolin).
+
+* [Snowball Finance](https://snowballfinance.info) BETA earn higher return on liquidity provider tokens. (Currently built on Pangolin).
 
 ## NoTex
 
