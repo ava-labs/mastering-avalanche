@@ -37,6 +37,9 @@ Receive notifications directly into your email address when transactions occur o
 * [Avascan](https://avascan.info/)
 * [VScout](https://vscout.io/)
 
+## Yield Optimizer
+* [Snowball Finance](https://snowball finance.info) BETA earn higher return on liquidity provider tokens.(currently built on Pangolin).
+
 ## NoTex
 
 [NoTex](https://www.notex.ch) is a global censorship resistant blogging and intellectual property (IP) platform, that allows you to freely express yourself and to protect your thoughts or ideas.
