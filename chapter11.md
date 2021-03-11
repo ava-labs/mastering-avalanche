@@ -25,7 +25,6 @@ Avalanche Wallet is a simple, secure, non-custodial wallet for storing Avalanche
 
 * [Avalanche Wallet](https://wallet.avax.network)
 
-
 ## AVAX Alert
 
 Receive notifications directly into your email address when transactions occur on your AVAX wallet.
@@ -37,3 +36,8 @@ Receive notifications directly into your email address when transactions occur o
 * [Avalanche Explorer](https://explorer.avax.network)
 * [Avascan](https://avascan.info/)
 * [VScout](https://vscout.io/)
+
+## NoTex
+
+[NoTex](https://www.notex.ch) is a global censorship resistant blogging and intellectual property (IP) platform, that allows you to freely express yourself and to protect your thoughts or ideas.
+
