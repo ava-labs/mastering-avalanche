@@ -10,7 +10,7 @@ Mastering Avalanche 1st Edition - The Internet of Finance. Inspired by, but not 
 * [Chapter 4 - Keys and Addresses](./chapter4.md)
 * [Chapter 5 - Wallets](./chapter5.md)
 * ~~[Chapter 6 - Transactions](./chapter6.md)~~
-* ~~[Chapter 7 - The Avalanche Network](./chapter7.md)~~
+* [Chapter 7 - The Avalanche Network](./chapter7.md)
 * ~~[Chapter 8 - The Blockchain](./chapter8.md)~~
 * [Chapter 9 - Consensus](./chapter9.md)
 * ~~[Chapter 10 - Avalanche Security](./chapter10.md)~~
