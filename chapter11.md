@@ -44,3 +44,24 @@ Receive notifications directly into your email address when transactions occur o
 ## NoTex
 
 [NoTex](https://www.notex.ch) is a global censorship resistant blogging and intellectual property (IP) platform, that allows you to freely express yourself and to protect your thoughts or ideas.
+
+## YetiSwap
+
+* [Landing Page](https://yetiswap.app/)
+* [Distributed Exchange (DEX)](https://exchange.yetiswap.app/#/swap)
+* [YetiSwap Analytics](https://info.yetiswap.app/)
+
+## Complus Network
+ 
+Complus Network is a multi-chain exchange protocol for ERC-20 tokens on Huobi ECO Chain, Avalanche and the Binance Smart Chain.
+
+* [Litepaper](https://complus.exchange/litepaper.pdf)
+* [Landing Page](https://complus.network/)
+* [Distributed Exchange (DEX)](https://avadex.complus.exchange/#/swap)
+* [Complus Analytics](https://avagraph.live/#/home)
+
+## JulWallet
+
+ Your One-Stop Wallet for Storing, Selling and Buying Tokens. 
+
+ *[Landing Page](https://justliquidity.org/app)
