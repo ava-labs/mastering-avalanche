@@ -40,6 +40,7 @@ Receive notifications directly into your email address when transactions occur o
 ## Yield Optimizer
 
 * [Snowball Finance](https://snowballfinance.info) BETA earn higher return on liquidity provider tokens. (Currently built on Pangolin).
+* [Snowball Finance V2 Portal](https://v2.snowballfinance.info/)
 
 ## NoTex
 
@@ -64,4 +65,44 @@ Complus Network is a multi-chain exchange protocol for ERC-20 tokens on Huobi EC
 
  Your One-Stop Wallet for Storing, Selling and Buying Tokens. 
 
- *[Landing Page](https://justliquidity.org/app)
+ * [Landing Page](https://justliquidity.org/app)
+
+ ## beefy
+
+ Yield optimizer.
+
+ * [Landing Page](https://beefy.finance/)
+ * [Documentation](https://docs.beefy.finance/beefyfinance/)
+ * [App](https://avax.beefy.finance/)
+
+ ## CryptoSeals
+
+ Interactive, generative NFT collectibles.
+
+  * [App](https://cryptoseals.art/)
+
+## Elk Finance 
+
+Cross-chain Liquidity Network.
+
+* [Litepaper](https://elk.finance/litepaper.html)
+* [Landing Page](https://elk.finance/)
+* [Distributed Exchange (DEX)](https://avax.elk.finance/#/swap)
+* [Elk Finance Analytics ](https://avax-info.elk.finance/)
+
+## Markr 
+
+Markr is a portfolio management and tracker tool for Avalanche users.
+
+[App](https://markr.io/#/pools)
+
+## SushiSwap
+
+* [Distributed Exchange (DEX)](https://exchange.sushi.com/#/swap)
+
+## Avalaunch
+
+Decentralized fundraising platform.
+
+* [Landing Page](https://avalaunch.app/)
+
