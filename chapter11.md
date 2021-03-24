@@ -94,7 +94,7 @@ Cross-chain Liquidity Network.
 
 Markr is a portfolio management and tracker tool for Avalanche users.
 
-[App](https://markr.io/#/pools)
+* [App](https://markr.io/#/pools)
 
 ## SushiSwap
 
