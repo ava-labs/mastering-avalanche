@@ -18,3 +18,4 @@ This work is inspired by, but not based on, [Mastering Bitcoin](https://github.c
 * [Chapter 10 - Avalanche Security](./chapter_10.md)
 * [Chapter 11 - Avalanche Applications](./chapter_11.md)
 * [Chapter 12 - Whitepapers](./chapter_12.md)
+* [Chapter 13 - Contributors](./chapter_13.md)
