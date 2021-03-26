@@ -9,15 +9,15 @@ Two-way transfers of assets and data between Avalanche and Ethereum.
 
 ## Pangolin
 
-* [Landing Page](https://pangolin.exchange)
-* [Distributed Exchange (DEX)](https://app.pangolin.exchange)
+* [Homepage](https://pangolin.exchange)
+* [Decentralised Exchange (DEX)](https://app.pangolin.exchange)
 * [Pangolin Protocol Analytics](https://info.pangolin.exchange)
 * [Pangolin Governance Forum](https://gov.pangolin.exchange)
 
 ## Jelly Swap
 
-* [Home](https://jelly.market/)
-* [Swap](https://app.jelly.market/swap)
+* [Homepage](https://jelly.market/)
+* [Decentralised Exchange (DEX)](https://app.jelly.market/swap)
 
 ## Avalanche Wallet
 
@@ -29,7 +29,7 @@ Avalanche Wallet is a simple, secure, non-custodial wallet for storing Avalanche
 
 Receive notifications directly into your email address when transactions occur on your AVAX wallet.
 
-* [Get Notified](https://avaxalert.com/)
+* [AVAX Alerts](https://avaxalert.com/)
 
 ## Avalanche Explorers
 
@@ -47,7 +47,7 @@ Receive notifications directly into your email address when transactions occur o
 
 ## YetiSwap
 
-* [Landing Page](https://yetiswap.app/)
+* [Homepage](https://yetiswap.app/)
 * [Distributed Exchange (DEX)](https://exchange.yetiswap.app/#/swap)
 * [YetiSwap Analytics](https://info.yetiswap.app/)
 
@@ -55,8 +55,8 @@ Receive notifications directly into your email address when transactions occur o
  
 Complus Network is a multi-chain exchange protocol for ERC-20 tokens on Huobi ECO Chain, Avalanche and the Binance Smart Chain.
 
+* [Homepage](https://complus.network/)
 * [Litepaper](https://complus.exchange/litepaper.pdf)
-* [Landing Page](https://complus.network/)
 * [Distributed Exchange (DEX)](https://avadex.complus.exchange/#/swap)
 * [Complus Analytics](https://avagraph.live/#/home)
 
@@ -64,4 +64,4 @@ Complus Network is a multi-chain exchange protocol for ERC-20 tokens on Huobi EC
 
  Your One-Stop Wallet for Storing, Selling and Buying Tokens. 
 
- *[Landing Page](https://justliquidity.org/app)
+ * [Homepage](https://justliquidity.org/app)
