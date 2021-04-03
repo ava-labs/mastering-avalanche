@@ -103,8 +103,8 @@ Snowies are unique and limited NFTs.
 
 ## Snowball
 
-* [Yield Optmizing](https://snowball.network)
-* [Stablecoin AMM](https://snowball.network/stablevault) 
+* [Snowball Yield Optmizing](https://snowball.network)
+* [Snowball StableVault](https://snowball.network/stablevault)
 
 ## YetiSwap
 
