@@ -135,10 +135,15 @@ A Complete DeFi Ecosystem, launchpad, token locks, liquidity locks, crypto subsc
 ## Snowball
 
 * [Snowball](https://snowball.network) DeFi on avalanche
-* [StableVault](https://snowball.network/stablevault/) Make high value stable asset exchanges with low fees and slippage. (audited)
+* [StableVault](https://snowball.network/stablevault) Make high value stable asset exchanges with low fees and slippage. (audited)
+
+## Yield Yak
+
+* [Yield Yak Homepage](https://yieldyak.com)
+* [YetiSwap Telegram](https://t.me/yieldyak)
 
 ## YetiSwap
 
-* [YetiSwap Homepage](https://yetiswap.app/)
+* [YetiSwap Homepage](https://yetiswap.app)
 * [YetiSwap Decentralised Exchange (DEX)](https://exchange.yetiswap.app/#/swap)
-* [YetiSwap Analytics](https://info.yetiswap.app/)
+* [YetiSwap Analytics](https://info.yetiswap.app)
