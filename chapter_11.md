@@ -84,12 +84,37 @@ Markr is a portfolio management and tracker tool for Avalanche users.
 
 [NoTex](https://www.notex.ch) is a global censorship resistant blogging and intellectual property (IP) platform, that allows you to freely express yourself and to protect your thoughts or ideas.
 
+## Pandaswap
+
+PandaSwap brings yield farming and decentralized exchanges to the masses with Avalanche.
+
+* [Pandaswap Homepage](https://app.pandaswap.exchange)
+* [Pandaswap Telegram](https://t.me/pandaswapex)
+* [Pandaswap Discord](https://discord.com/invite/KmtJkpPSB3)
+
 ## Pangolin
 
 * [Pangolin Homepage](https://pangolin.exchange)
 * [Pangolin Decentralised Exchange (DEX)](https://app.pangolin.exchange)
 * [Pangolin Protocol Analytics](https://info.pangolin.exchange)
 * [Pangolin Governance Forum](https://gov.pangolin.exchange)
+
+## Penguin Finance
+
+Penguin Finance is a third-generation yield farming project building on Avalanche.
+
+* [Penguin Finance Homepage](https://app.pandaswap.exchange)
+* [Pangolin Decentralised Exchange (DEX)](https://app.pangolin.exchange)
+* [Farm and Stake](https://www.penguinfinance.io/igloos)
+* [Penguin Finance Telegram](https://t.me/penguin_defi)
+* [Penguin Finance Discord](https://discord.com/invite/WyFT54acU5)
+
+## Spore Finance
+
+Spore Finance aims at creating an ecosystem combining reflect tokens, algorithmically generated NFTs and the first NFT prediction market.
+
+* [Spore Finance](https://sporefinance.co)
+* [Spore Finance Telegram](https://t.me/joinchat/AxPZgso-tL85YzRk)
 
 ## Snowies
 
@@ -100,6 +125,12 @@ Snowies are unique and limited NFTs.
 ## SushiSwap
 
 * [SushiSwap Distributed Exchange (DEX)](https://exchange.sushi.com/#/swap)
+
+## TrustSwap
+
+A Complete DeFi Ecosystem, launchpad, token locks, liquidity locks, crypto subscriptions, escrow, NFT marketplace, and more
+
+* [TrustSwap](https://trustswap.org)
 
 ## Yield Optimizer
 
