@@ -132,9 +132,10 @@ A Complete DeFi Ecosystem, launchpad, token locks, liquidity locks, crypto subsc
 
 * [TrustSwap](https://trustswap.org)
 
-## Yield Optimizer
+## Snowball
 
 * [Snowball](https://snowball.network) DeFi on avalanche
+* [StableVault](https://snowball.network/stablevault/) Make high value stable asset exchanges with low fees and slippage. (audited)
 
 ## YetiSwap
 
