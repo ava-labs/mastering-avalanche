@@ -84,6 +84,12 @@ Markr is a portfolio management and tracker tool for Avalanche users.
 
 [NoTex](https://www.notex.ch) is a global censorship resistant blogging and intellectual property (IP) platform, that allows you to freely express yourself and to protect your thoughts or ideas.
 
+## PandaSwap
+
+* [PandaSwap Homepage](https://pandaswap.exchange)
+* [PandaSwap Automated Market Maker (AMM)](https://app.pandaswap.exchange)
+* [PandaSwap Governance Forum](https://www.pandaswap.info/governance)
+
 ## Pangolin
 
 * [Pangolin Homepage](https://pangolin.exchange)
