@@ -101,9 +101,10 @@ Snowies are unique and limited NFTs.
 
 * [SushiSwap Distributed Exchange (DEX)](https://exchange.sushi.com/#/swap)
 
-## Yield Optimizer
+## Snowball
 
-* [Snowball](https://snowball.network) DeFi on avalanche
+* [Automatic Compounding](https://snowball.network/snowglobes/) **BETA software** earn higher return on liquidity provider tokens. (Currently built on Pangolin).
+* [StableVault](https://snowball.network/stablevault/) Make high value stable asset exchanges with low fees and slippage. (audited)
 
 ## YetiSwap
 
