@@ -103,7 +103,7 @@ Snowies are unique and limited NFTs.
 
 ## Yield Optimizer
 
-* [Snowball Finance](https://snowballfinance.info) **BETA software** earn higher return on liquidity provider tokens. (Currently built on Pangolin).
+* [Snowball](https://snowball.network) DeFi on avalanche
 
 ## YetiSwap
 
