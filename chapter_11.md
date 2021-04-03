@@ -109,6 +109,13 @@ Penguin Finance is a third-generation yield farming project building on Avalanch
 * [Penguin Finance Telegram](https://t.me/penguin_defi)
 * [Penguin Finance Discord](https://discord.com/invite/WyFT54acU5)
 
+## Sled Finance
+
+The first native degen coin on AVAX
+
+* [Sled Finance](https://sled.finance)
+* [Sled Finance Telegram](https://t.me/Sled_Finance)
+
 ## Spore Finance
 
 Spore Finance aims at creating an ecosystem combining reflect tokens, algorithmically generated NFTs and the first NFT prediction market.
