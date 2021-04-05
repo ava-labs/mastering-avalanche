@@ -32,19 +32,56 @@ AVAX is hard-capped at 720,000,000 and all transaction fees are burned which mak
 
 Transaction fees and staking rewards all utilise AVAX. One AVAX is denomination nine, so the smallest unit of AVAX is nanoAVAX (nAVAX) at 10^-9 AVAX.
 
+<small>The table below demonstrates the divisions of an AVAX within the metric system.</small>
+
+| Name | Symbol | Base 10 | Decimal | English word |
+|:--|:--|:--|:--|:--|
+| - | - | 10<sup>0</sup> | 1 | one |
+| deci- | d-| 10<sup>-1</sup> | 0.1 | tenth |
+| centi- | c-| 10<sup>-2</sup> | 0.01 | hundredth |
+| milli- |m- | 10<sup>-3</sup> | 0.001 | thousandth |
+| micro- | μ-| 10<sup>-6</sup> | 0.000001 | millionth |
+| nano- | n-| 10<sup>-9</sup> | 0.000000001 | billionth |
+
 ## History of Avalanche
+
+An anonymous team calling themselves **Team Rocket** released a [white-paper on IPFS](https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV) with the title, Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies.
+
+This white paper was so groundbreaking that it instantly got widespread attention and ultimately Team Rocket and Prof. Emin Gün Sirer started collaborating together to bring the white paper to life in the form of Avalanche network.
+
+After many months of work [Avalabs](https://www.avalabs.org) was born.
+
+Avalabs aims to develop and release the first implementation of the protocol written in the [GO programming language](https://golang.org) called [AvalancheGo](https://github.com/ava-labs/avalanchego).
+
+The Avalanche network went through many test iterations until it was ready for production usage often referred to as Main Network (Mainnet).
+
+| Name | Date |
+|:--|:--|
+| Denali Test Network | June 2020 |
+| Everest Test Network | August 2020 |
+| Main Network | September 2020 |
 
 ## Getting Started
 
-## Choosing an Avalanche Wallet
+As a user getting started with Avalanche and AVAX is easy and most exchanges support the buying and selling of AVAX.
 
-### Web Wallet
 
-[Web Wallet](https://wallet.avax.network)
 
-### Hardware Wallet
+### Choosing an Avalanche Wallet
 
-There is an [app for the Ledger](https://github.com/obsidiansystems/ledger-app-avalanche).
+#### Web Wallet
+
+A web wallet is an online service that allows you to interact with your Avalanche wallet in order to send and receive AVAX and other supported assets on the Avalanche network.
+
+A web wallet usually does not require you to install or setup any applications on your device.
+
+#### Hardware Wallet
+
+A hardware wallet is a physical device which lets you store, send and receive digital assets. It is considered to be safer than a web wallet and is often referred to as "cold storage".
+
+##### Ledger Nano S
+
+There is an app for the [Ledger Nano S](https://github.com/obsidiansystems/ledger-app-avalanche).
 
 1. Launch [Ledger Live](https://www.ledger.com/ledger-live)
 2. Open Settings
@@ -54,6 +91,45 @@ There is an [app for the Ledger](https://github.com/obsidiansystems/ledger-app-a
 
 <img src="./assets/ledger-app-install.png" width="400px" alt="ledger install app">
 
-## Getting your first AVAX
+### Creating and Accessing a Web Wallet
 
-## Finding the current price of AVAX
+[Avalanche Network Web Wallet](https://wallet.avax.network) is an example of a web wallet.
+
+When you land on the [Avalanche Network Web Wallet](https://wallet.avax.network) homepage you are given two choices:
+
+1. Access Wallet
+2. Create New Wallet
+
+If you are completely new to the Avalanche ecosystem you will need to **Create New Wallet**.
+
+You will then be asked to: *"Generate a new key phrase to setup your Avalanche Wallet.*". Click on **Generate Key Phrase**.
+
+At this point you will be shown **24 words** that were *uniquely generated for you*. Write these 24 words down on a piece of paper and ***never loose them***. These words are essentially the keys to the vault where you will store your digital assets. If anybody has access to these 24 words, they have full access to your vault.
+
+Once the 24 words have been written down on a piece of paper you will then need to confirm you have done that by checking a confirmation checkbox.
+
+The next screen will require you to fill in the blank words necessary to unlock the vault. Once you have successfully filled in the blank words you will gain access to your wallet.
+
+Congratulations. You now have an Avalanche wallet that you can send and receive assets with.
+
+Remember. Only you and you alone should have access to the 24 words.
+
+Now, close the browser window and open a fresh window and navigate to the [Avalanche Network Web Wallet](https://wallet.avax.network) this time select the **Access Wallet** option and then **Mnemonic Key Phrase** option. Enter your 24 words and you now have access to your wallet once again.
+
+Once you have a single wallet you do not need to create more wallets.
+
+### Getting your first AVAX
+
+As you have only just created a web wallet the chances are that you do not yet have any AVAX.
+
+You will now need to purchase some AVAX from an exchange such as [Binance](https://www.binance.com) and then fund your wallet you just created.
+
+You wallet has what's called an address. This is a public address you can share with family and friends for them to send you some AVAX.
+
+This address can look like: X-avax1yr2gwle82z5xgre5lk5mmkg8nh9l2y9gl54ma0
+
+### Finding the current price of AVAX
+
+AVAX and other cryptocurrencies price often fluctuate. The United States Dollar (USD) or Great Britain Pound (GBP) value of your AVAX will be different from hour to hour.
+
+In order to see the value of one AVAX you can navigate to [CoinGecko AVAX page](https://www.coingecko.com/en/coins/avalanche) or [CoinMarketCap AVAX page](https://coinmarketcap.com/currencies/avalanche/) to understand the price at that moment in time. Both of these websites also have native mobile applications which you can download from your devices "App Store".
