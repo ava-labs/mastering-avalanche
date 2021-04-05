@@ -1,7 +1,7 @@
-# Contributors
+# Avalanche Security
 
-The following individuals (in no particular order) have contributed to this book:
+## Principles
 
-* [Gabriel Cardona](https://www.twitter.com/cgcardona)
-* [Muhammet Selim Ferah](https://twitter.com/muhammetselimfe)
-* [Hasan Akyol](https://www.twitter.com/lenguic)
+## Best practices
+
+## Hardware wallets

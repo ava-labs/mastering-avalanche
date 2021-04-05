@@ -1,4 +1,4 @@
-# AvalancheGo, the reference implementation
+# AvalancheGo: The Reference Implementation
 
 ## Running an Avalanche node
 
