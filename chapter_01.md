@@ -10,11 +10,11 @@ Avalanche can be utilised as an open-source platform for launching public or pri
 
 Avalanche is the first 'Smart Contracts' capable network that can processes over 4,500 transactions per second with instant confirmations and high-throughput. Ethereum developers can quickly build on Avalanche as [Solidity](https://docs.soliditylang.org) the programming language of the Ethereum Virtual Machine (EVM) works out-of-the-box.
 
-A key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocol: Avalanche and Snowman are breakthroughs in computer science.
+A key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocol, Avalanche and Snowman, are breakthroughs in computer science.
 
-The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their their drawbacks.
+The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their their drawbacks.
 
-Avalanche is a network of networks consisting of subnets, dynamic sets of validators working together to come into consensus on the state of a set of blockchains. Each subnet contains blockchains which are instances of virtual machines. There is a primary or default subnet which consists of the P, X and C chains.
+Avalanche is a network of networks consisting of subnets and dynamic sets of validators working together to come into consensus on the state of a set of blockchains. Each subnet contains blockchains which are instances of virtual machines. There is a primary or default subnet which consists of the P, X and C chains.
 
 <small>The table below demonstrates the function of each subnet within the Avalanche primary network.</small>
 
