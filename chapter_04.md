@@ -23,7 +23,7 @@ Addresses on the X-Chain and P-Chain use the Bech32 standard outlined in [BIP 01
 
 Additionally, an Avalanche address is prefixed with the alias of the chain it exists on, followed by a dash. For example, X-Chain addresses are prefixed with `X-`.
 
-The following regular expression matches addresses on the X-Chain, P-Chain and C-Chain for mainnet, fuji and localnet. Note that all valid Avalanche addresses will match this regular expression, but some strings that are not valid Avalanche addresses may match this regular expression.
+The following regular expression matches addresses on the X-Chain, P-Chain and C-Chain for mainnet, fuji and localhost. Note that all valid Avalanche addresses will match this regular expression, but some strings that are not valid Avalanche addresses may match this regular expression.
 
 ```zsh
 ^([XPC]|[a-km-zA-HJ-NP-Z1-9]{36,72})-[a-zA-Z]{1,83}1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{38}$
