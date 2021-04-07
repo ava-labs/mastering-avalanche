@@ -55,19 +55,17 @@ This white paper was so groundbreaking that it instantly got widespread attentio
 
 ## Getting Started
 
-As a user getting started with Avalanche is easy and many exchanges support the buying and selling of AVAX.
+As a user getting started with Avalanche is easy and many centralised exchanges support the buying and selling of AVAX with local currency. It is considered safer and best practice to hold your assets in your wallet. A wallet is a piece of software installed in a browser application, web or mobile application.
 
-### Choosing an Avalanche Wallet
+### Web Wallet
 
-#### Web Wallet
+A web wallet is an online service that allows you to interact with your Avalanche wallet to send and receive AVAX and other supported assets on the Avalanche network like non-fungible token (NFT). A web wallet does not require you to install or set up any applications on your device.
 
-A web wallet is an online service that allows you to interact with your Avalanche wallet to send and receive AVAX and other supported assets on the Avalanche network. A web wallet does not require you to install or set up any applications on your device.
-
-#### Hardware Wallet
+### Hardware Wallet
 
 A hardware wallet is a physical device that lets you store, send and receive digital assets. It is considered to be safer than a web wallet and is referred to as "cold storage".
 
-##### Ledger Nano S
+#### Ledger Nano S
 
 There is an app for the [Ledger Nano S](https://github.com/obsidiansystems/ledger-app-avalanche).
 
@@ -79,7 +77,7 @@ There is an app for the [Ledger Nano S](https://github.com/obsidiansystems/ledge
 
 <img src="./assets/ledger-app-install.png" width="400px" alt="ledger install app">
 
-### Creating and Accessing a Web Wallet
+### Creating a Web Wallet
 
 [Avalanche Network Web Wallet](https://wallet.avax.network) is an example of a web wallet.
 
@@ -111,7 +109,7 @@ Your wallet has what's called an address. This is a public address you can share
 
 This address can look like: X-avax1yr2gwle82z5xgre5lk5mmkg8nh9l2y9gl54ma0
 
-Copy your X-avax1... wallet address from [Avalanche Network Web Wallet](https://wallet.avax.network) and use it to send some AVAX from an exchange that supports AVAX.
+Copy your own wallet address from [Avalanche Network Web Wallet](https://wallet.avax.network) and use it to send some AVAX from an exchange that supports AVAX.
 
 ### Discovering the price of an AVAX
 
