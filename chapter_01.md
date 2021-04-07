@@ -4,7 +4,7 @@
 
 Avalanche is the official name of the Distributed Ledger Technology (DLT) that is being built as an open-source project led by [Ava Labs](https://www.avalabs.org). Avalanche is often referred to as a Layer 1 (L1) network or simply as a 'Blockchain'. The source code is [BSD 3-Clause licensed](ttps://github.com/ava-labs/avalanchego/blob/master/LICENSE) and is available on [GitHub](ttps://github.com/ava-labs/avalanchego) and the community is encouraged to contribute.
 
-Avalanche is also the name of the Proof of Stake (PoS) consensus protocol utilised in the Avalanche network. Avalanche can be utilised as an open-source platform for launching public or private decentralised applications. Avalanche is the first 'smart contracts' capable network that can process over 4,500 transactions per second with instant confirmations and high throughput. 
+Avalanche is also the name of the 'Proof of Stake' (PoS) consensus protocol utilised in the Avalanche network. Avalanche can be utilised as an open-source platform for launching public or private decentralised applications. Avalanche is the first 'smart contracts' capable network that can process over 4,500 transactions per second with instant confirmations and high throughput. 
 
 Ethereum developers can quickly build on Avalanche as [Solidity](https://docs.soliditylang.org) the programming language of the Ethereum Virtual Machine (EVM) works out of the box. The key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocols Avalanche and Snowman are breakthroughs in computer science.
 
@@ -51,7 +51,7 @@ This white paper was so groundbreaking that it instantly got widespread attentio
 | Denali Test Network | June 2020 |
 | Everest Test Network | August 2020 |
 | Main Network | September 2020 |
-| Apricot Phase 01 | April 2021 |
+| Apricot Phase One | April 2021 |
 
 ## Getting Started
 
@@ -79,9 +79,9 @@ There is an app for the [Ledger Nano S](https://github.com/obsidiansystems/ledge
 
 ### Creating a Web Wallet
 
-[Avalanche Network Web Wallet](https://wallet.avax.network) is an example of a web wallet.
+[Avalanche Web Wallet](https://wallet.avax.network) is an example of a web wallet.
 
-When you land on the [Avalanche Network Web Wallet](https://wallet.avax.network) homepage you are given two choices:
+When you land on the [Avalanche Web Wallet](https://wallet.avax.network) homepage you are given two choices:
 
 1. Access Wallet
 2. Create New Wallet
@@ -92,12 +92,11 @@ You will then be asked to: *"Generate a new key phrase to set up your Avalanche 
 
 At this point, you will be shown **24 words** that were *uniquely generated for you*. Write these 24 words down on a piece of paper and ***never lose them***. These words are the keys to the vault where you will store your digital assets. If anybody has access to these 24 words, they have full access to your vault.
 
-Once the 24 words have been written on a piece of paper you will then need to confirm you have done that by checking a confirmation checkbox.
-The next screen will require you to fill in the blank words necessary to unlock the vault. Once you have successfully filled in the blank words you will gain access to your wallet.
+Once the 24 words have been written on a piece of paper you will then need to confirm you have done that by checking a confirmation checkbox. The next screen will require you to fill in the blank words necessary to unlock the vault. Once you have successfully filled in the blank words you will gain access to your wallet.
 
 Congratulations. You now have an Avalanche wallet that you can send and receive assets with. Remember you and you alone should have access to the 24 words.
 
-Now, close the browser window and open a fresh window and navigate to the [Avalanche Network Web Wallet](https://wallet.avax.network) this time select the **Access Wallet** option and then the **Mnemonic Key Phrase** option. Enter your 24 words and you now have access to your wallet once again.
+Now, close the browser window and open a fresh window and navigate to the [Avalanche Web Wallet](https://wallet.avax.network) this time select the **Access Wallet** option and then the **Mnemonic Key Phrase** option. Enter your 24 words and you now have access to your wallet once again.
 
 Once you have a single wallet you do not need to create more wallets.
 
@@ -109,7 +108,7 @@ Your wallet has what's called an address. This is a public address you can share
 
 This address can look like: X-avax1yr2gwle82z5xgre5lk5mmkg8nh9l2y9gl54ma0
 
-Copy your own wallet address from [Avalanche Network Web Wallet](https://wallet.avax.network) and use it to send some AVAX from an exchange that supports AVAX.
+Copy your own wallet address from [Avalanche Web Wallet](https://wallet.avax.network) and use it to send some AVAX from an exchange that supports AVAX.
 
 ### Discovering the price of an AVAX
 
