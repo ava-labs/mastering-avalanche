@@ -8,7 +8,7 @@ Avalanche is also the name of the 'Proof of Stake' (PoS) consensus protocol util
 
 Avalanche is the first 'smart contracts' capable network that can process over 4,500 transactions per second with instant confirmations and high throughput. Ethereum developers can quickly build on Avalanche as [Solidity](https://docs.soliditylang.org) the programming language of the Ethereum Virtual Machine (EVM) works out of the box. 
 
-The key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocols Avalanche and Snowman are breakthroughs in computer science.
+A key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocol, Avalanche and Snowman, are breakthroughs in computer science.
 
 The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their their drawbacks.
 
