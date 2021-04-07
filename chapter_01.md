@@ -4,11 +4,15 @@
 
 Avalanche is the official name of the Distributed Ledger Technology (DLT) that is being built as an open-source project led by [Ava Labs](https://www.avalabs.org). Avalanche is often referred to as a Layer 1 (L1) network or simply as a 'Blockchain'. The source code is [BSD 3-Clause licensed](ttps://github.com/ava-labs/avalanchego/blob/master/LICENSE) and is available on [GitHub](ttps://github.com/ava-labs/avalanchego) and the community is encouraged to contribute.
 
-Avalanche is also the name of the 'Proof of Stake' (PoS) consensus protocol utilised in the Avalanche network. Avalanche can be utilised as an open-source platform for launching public or private decentralised applications. Avalanche is the first 'smart contracts' capable network that can process over 4,500 transactions per second with instant confirmations and high throughput. 
+Avalanche is also the name of the 'Proof of Stake' (PoS) consensus protocol utilised in the Avalanche network. Avalanche can be utilised as an open-source platform for launching public or private decentralised applications. 
 
-Ethereum developers can quickly build on Avalanche as [Solidity](https://docs.soliditylang.org) the programming language of the Ethereum Virtual Machine (EVM) works out of the box. The key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocols Avalanche and Snowman are breakthroughs in computer science.
+Avalanche is the first 'smart contracts' capable network that can process over 4,500 transactions per second with instant confirmations and high throughput. Ethereum developers can quickly build on Avalanche as [Solidity](https://docs.soliditylang.org) the programming language of the Ethereum Virtual Machine (EVM) works out of the box. 
 
-The Avalanche protocol employs a novel approach to a consensus to achieve its strong safety guarantees, quick finality, and high-throughput all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their drawbacks. Avalanche is a network of networks consisting of subnets, dynamic sets of validators working together to come to a consensus on the state of a set of blockchains. Each subnet contains Blockchains which are instances of virtual machines (VM). There is a primary or default subnet that consists of the P, X and C chains.
+The key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocols Avalanche and Snowman are breakthroughs in computer science.
+
+The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their their drawbacks.
+
+Avalanche is a network of networks consisting of subnets and dynamic sets of validators working together to come into consensus on the state of a set of blockchains. Each subnet contains blockchains which are instances of virtual machines. There is a primary or default subnet which consists of the P, X and C chains.
 
 <small>The table below demonstrates the function of each subnet within the Avalanche primary network.</small>
 

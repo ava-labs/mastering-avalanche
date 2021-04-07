@@ -14,7 +14,7 @@
 
 ## Bech32
 
-Addresses on the X-Chain and P-Chain use the Bech32 standard outlined in BIP 0173. There are four parts to a Bech32 address scheme. In order of appearance:
+Addresses on the X-Chain and P-Chain use the Bech32 standard outlined in [BIP 0173](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki). There are four parts to a Bech32 address scheme. In order of appearance:
 
 * A human-readable part (HRP). On mainnet this is `avax`.
 * The number `1`, which separates the HRP from the address and error correction code.
