@@ -10,9 +10,9 @@ Avalanche is the first 'smart contracts' capable network that can process over 4
 
 A key difference between Avalanche and other L1 networks (like Ethereum) is that the consensus protocol, Avalanche and Snowman, are breakthroughs in computer science.
 
-The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their their drawbacks.
+The Avalanche protocol employs a novel approach to consensus to achieve its strong safety guarantees, quick finality, and high-throughput, all without compromising decentralisation. It brings together the best of Classical and Nakamoto consensus without any of their drawbacks.
 
-Avalanche is a network of networks consisting of subnets and dynamic sets of validators working together to come into consensus on the state of a set of blockchains. Each subnet contains blockchains which are instances of virtual machines. There is a primary or default subnet which consists of the P, X and C chains.
+Avalanche is a network of networks consisting of subnets and dynamic sets of validators working together to come to a consensus on the state of a set of blockchains. Each subnet contains blockchains which are instances of virtual machines. There is a primary or default subnet that consists of the P, X and C chains.
 
 <small>The table below demonstrates the function of each subnet within the Avalanche primary network.</small>
 
@@ -112,7 +112,7 @@ Your wallet has what's called an address. This is a public address you can share
 
 This address can look like: X-avax1yr2gwle82z5xgre5lk5mmkg8nh9l2y9gl54ma0
 
-Copy your own wallet address from [Avalanche Web Wallet](https://wallet.avax.network) and use it to send some AVAX from an exchange that supports AVAX.
+Copy your wallet address from [Avalanche Web Wallet](https://wallet.avax.network) and use it to send some AVAX from an exchange that supports AVAX.
 
 ### Discovering the price of an AVAX
 
