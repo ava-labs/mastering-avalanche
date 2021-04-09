@@ -109,6 +109,16 @@ Penguin Finance is a third-generation yield farming project building on Avalanch
 * [Penguin Finance Telegram](https://t.me/penguin_defi)
 * [Penguin Finance Discord](https://discord.com/invite/WyFT54acU5)
 
+## OliveCash
+
+OliveCash is a cross chain Yield Farming project running on Avalanche chain and Binance Smart Chain.
+
+* [OliveCash Homepage](https://avax.olive.cash)
+* [OliveCash Exchange](https://swap.olive.cash)
+* [OliveCash Telegram](https://t.me/olive_cash_chat)
+* [OliveCash Twitter](https://twitter.com/OliveCashBsc)
+* [OliveCash Gitbook](https://olive-cash.gitbook.io/olive-cash/)
+
 ## Sled Finance
 
 The first native degen coin on AVAX
