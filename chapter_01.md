@@ -2,7 +2,7 @@
 
 ## What is Avalanche?
 
-Avalanche is the official name of the Distributed Ledger Technology (DLT) that is being built as an open-source project led by [Ava Labs](https://www.avalabs.org). Avalanche is often referred to as a Layer 1 (L1) network or simply as a 'Blockchain'. The source code is [BSD 3-Clause licensed](ttps://github.com/ava-labs/avalanchego/blob/master/LICENSE) and is available on [GitHub](ttps://github.com/ava-labs/avalanchego) and the community is encouraged to contribute.
+Avalanche is the official name of the Distributed Ledger Technology (DLT) that is being built as an open-source project led by [Ava Labs](https://www.avalabs.org). Avalanche is often referred to as a Layer 1 (L1) network or simply as a 'Blockchain'. The source code is [BSD 3-Clause licensed](ttps://github.com/ava-labs/avalanchego/blob/master/LICENSE) and is available on [GitHub](https://github.com/ava-labs/avalanchego) and the community is encouraged to contribute.
 
 Avalanche is also the name of the 'Proof of Stake' (PoS) consensus protocol utilised in the Avalanche network. Avalanche can be utilised as an open-source platform for launching public or private decentralised applications. 
 
