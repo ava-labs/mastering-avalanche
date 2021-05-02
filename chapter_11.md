@@ -115,9 +115,7 @@ PandaSwap brings yield farming and decentralized exchanges to the masses with Av
 
 Penguin Finance is a third-generation yield farming project building on Avalanche.
 
-* [Penguin Finance Homepage](https://app.pandaswap.exchange)
-* [Pangolin Decentralised Exchange (DEX)](https://app.pangolin.exchange)
-* [Farm and Stake](https://www.penguinfinance.io/igloos)
+* [Penguin Finance Homepage](https://penguinfinance.org/)
 * [Penguin Finance Telegram](https://t.me/penguin_defi)
 * [Penguin Finance Discord](https://discord.com/invite/WyFT54acU5)
 
