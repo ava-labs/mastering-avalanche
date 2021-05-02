@@ -71,6 +71,10 @@ Cross-chain Liquidity Network.
 * [Elk Finance Distributed Exchange (DEX)](https://avax.elk.finance/#/swap)
 * [Elk Finance Analytics](https://avax-info.elk.finance)
 
+## Lydia Finance
+
+* [Lydia Finance](https://www.lydia.finance/)
+
 ## Jelly Swap
 
 * [JellySwap Homepage](https://jelly.market)
