@@ -31,6 +31,14 @@ Receive notifications directly into your email address when transactions occur o
 
 * [AVAX Alerts](https://avaxalert.com)
 
+## Baguette
+
+Baguette is an automated market maker with functions for staking AVAX and BAG (without risk of impermanent loss) and liquidity mining.
+
+* [Baguette Homepage](https://baguette.exchange/)
+* [Baguette Exchange](https://app.baguette.exchange/)
+* [Baguette Analytics](https://info.baguette.exchange/)
+
 ## Beefy
 
 Yield optimizer.
