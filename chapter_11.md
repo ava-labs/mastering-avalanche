@@ -154,6 +154,12 @@ A Complete DeFi Ecosystem, launchpad, token locks, liquidity locks, crypto subsc
 * [Snowball](https://snowball.network) DeFi on avalanche
 * [StableVault](https://snowball.network/stablevault) Make high value stable asset exchanges with low fees and slippage. (audited)
 
+## Unifty
+
+Unifty is a decentralized, multi-chain NFT infrastructure platform.
+
+* [Unifty](https://unifty.io/)
+
 ## Yield Yak
 
 * [Yield Yak Homepage](https://yieldyak.com)
