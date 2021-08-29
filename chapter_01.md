@@ -33,6 +33,9 @@ AVAX is hard-capped at 720,000,000 and all transaction fees are burned which mak
 Transaction fees and staking rewards all utilise AVAX. One AVAX is denomination nine, so the smallest unit of AVAX is nanoAVAX (nAVAX) at 10^-9 AVAX.
 
 ## History of Avalanche
+The protocol's fundamentals were first shared on InterPlanetary File System (aka IPFS) on May 2018 by a pseudonymous group of enthusiasts going by the name “Team Rocket[2] It was later developed by a dedicated team of researchers from the Cornell University. The research was led by Emin Gün Sirer, a professor of computer science and software engineer, assisted by doctoral students Maofan “Ted” Yin, M.S. ’19, and Kevin Sekniqi, M.S. Following the research stage, a startup technology company was founded to develop a blockchain network that would meet complex finance industry requirements. As a number of sources indicate, "the project was in the realm of academic circles interested in exploring consensus protocols that serve the same purpose of proof-of-work — securing transactions — but are more energy-efficient and have the potential to provide a basis for democratic development and the inclusion of more users in the consensus process". In March, 2020, the AVA codebase (Developer Accelerator Program or AVA DAP) for the Avalanche consensus protocol became open-source and available to public.
+
+Initial Coin Offering ended in July 15, 2020, following by the launch of Mainnet Launch in September of the same year. In September, 2020, the company also issued its native token Avax (an acronym for "Avalanche").
 
 ## Getting Started
 
