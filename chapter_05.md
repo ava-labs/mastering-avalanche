@@ -11,7 +11,7 @@
 
 ## Hardware Wallets
 
-* [Ledger Nano S](https://www.ledger.com)
+* [Ledger Nano S / Ledger Nano X](https://www.ledger.com)
 
 ## Wallet Best Practices
 
