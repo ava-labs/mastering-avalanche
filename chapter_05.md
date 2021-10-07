@@ -6,12 +6,12 @@
 
 ## HD Wallets (BIP-32/BIP-44)
 
-- [Avalanche Web Wallet](https://wallet.avax.network)
-- [MetaMask](https://metamask.io)
+* [Avalanche Web Wallet](https://wallet.avax.network)
+* [MetaMask](https://metamask.io)
 
 ## Hardware Wallets
 
-- [Ledger Nano S / Ledger Nano X](https://www.ledger.com)
+* [Ledger Nano S / Ledger Nano X](https://www.ledger.com)
 
 ## Wallet Best Practices
 
